@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: Topsis-Arnav-101953016
+Version: 1.0.0
+Summary: Implements topsis on the given input data file and generates topsis score and ranks accordingly.
+Home-page: https://github.com/Arnav2146604/TOPSIS-Arnav-101953016
+Author: Arnav Gaur
+Author-email: agaur_be19@thapar.edu
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Topsis-Arnav-101953016
+
+Topsis implementation in python. Used as a command line tool to generate topsis score and ranks of the given input data file along with weights and impacts.
+
+## Installation
+
+`pip install Topsis-Arnav-101953016`
+
+## How to use it?
+
+Usage: topsis <input_filename.csv> <"Weights"> <"Impacts"> <output_filename.csv>
+
+## License
+
+Â© 2022 Arnav Gaur
+
+This repository is licensed under the MIT license. See LICENSE for details.
+
